@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ca511
 - 👀 I’m interested in coding industrial desktop and web applications with C#
 - 🌱 I’m currently learning C# advanced Multithreading
-- 💞️ I’m looking to collaborate on a Database ERP or MES WPF-application
+- 💞️ I’m looking to collaborate on a Database WPF-application
 - 📫 How to reach me: add me here on the glorious GitHub ^^
 
 <!---
